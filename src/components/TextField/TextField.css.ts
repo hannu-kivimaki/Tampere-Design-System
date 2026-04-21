@@ -50,7 +50,7 @@ export const inputRoot = style({
   fontSize: inputVars.font.text.fontSize,
   lineHeight: inputVars.font.text.lineHeight,
   letterSpacing: font.letterSpacing,
-  minHeight: textField.minHeight,
+  height: textField.minHeight,
   padding: `${inputVars.padding.vertical} ${inputVars.padding.horizontal}`,
   alignItems: 'flex-start',
   gap: inputVars.spacing.horizontalSpacing,
